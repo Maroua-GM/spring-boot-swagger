@@ -1,0 +1,4 @@
+fr\doranco\swagger\Configuration\SecurityConfiguration.class
+fr\doranco\swagger\model\Employee.class
+fr\doranco\swagger\SwaggerSpringDemoApplication.class
+fr\doranco\swagger\controller\EmployeeController.class
