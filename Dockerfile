@@ -1,5 +1,5 @@
 FROM maven:3.8.6-jdk-11
-WORKDIR /stone.lunchtime
+WORKDIR /swagger-projet
 
 COPY ./pom.xml ./pom.xml
 RUN mvn dependency:go-offline -B
